@@ -13,6 +13,8 @@ namespace MyTestGitProj
 
             Console.WriteLine("Hello World");
             string x = Console.ReadLine();
+
+
             Console.WriteLine(x);
         }
     }
