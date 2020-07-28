@@ -1,6 +1,0 @@
-C:\Users\user\source\repos\MyGitTest\MyTestGitProj\MyTestGitProj\bin\Debug\MyTestGitProj.exe.config
-C:\Users\user\source\repos\MyGitTest\MyTestGitProj\MyTestGitProj\bin\Debug\MyTestGitProj.exe
-C:\Users\user\source\repos\MyGitTest\MyTestGitProj\MyTestGitProj\bin\Debug\MyTestGitProj.pdb
-C:\Users\user\source\repos\MyGitTest\MyTestGitProj\MyTestGitProj\obj\Debug\MyTestGitProj.csprojAssemblyReference.cache
-C:\Users\user\source\repos\MyGitTest\MyTestGitProj\MyTestGitProj\obj\Debug\MyTestGitProj.exe
-C:\Users\user\source\repos\MyGitTest\MyTestGitProj\MyTestGitProj\obj\Debug\MyTestGitProj.pdb
